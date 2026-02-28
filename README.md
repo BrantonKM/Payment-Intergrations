@@ -16,8 +16,6 @@ Offer a frontend interface (if applicable) for collecting payment details and in
 
 Facilitate secure and consistent transaction handling across services.
 
-⚠️ Note: This project currently appears to contain backend and frontend folders, but lacks explicit documentation. Add your API specs, environment configuration, and usage examples below for a complete guide.
-
 📁 Repository Structure
 Payment-Intergrations/
 ├── backend/              # Server APIs, payment logic, routing
@@ -32,7 +30,7 @@ frontend/: Frontend user interface that consumes the backend APIs for user-drive
 
 docker-compose.yaml: Local development environment with service containers.
 
-README.md: Project documentation (current file).
+README.md: Project documentation.
 
 🧠 Features
 
@@ -134,3 +132,4 @@ Reach me via GitHub or include your social/contact links here.
 📄 License
 
 This project is open-source and licensed under the MIT License.
+
